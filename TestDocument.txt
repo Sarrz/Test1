@@ -3,3 +3,4 @@ Healer
 DPS
 DPS
 DPS
+Raid 1
